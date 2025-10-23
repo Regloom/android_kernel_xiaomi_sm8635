@@ -179,6 +179,5 @@ sphinx_*/
 abi_gki_protected_exports
 all_kmi_symbols
 
-# Build scripts
-build_kernel.sh
-anykernel
+# Build outputs
+*.zip
